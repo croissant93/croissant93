@@ -33,3 +33,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </p>
+
+***
+![Codewars](https://github.r2v.ch/codewars?user=croissant93&stroke=blue)
