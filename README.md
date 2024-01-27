@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 ***
-![Codewars](https://github.r2v.ch/codewars?user=croissant93&name=true&top_languages=true&stroke=%23b362ff
+![Codewars](https://github.r2v.ch/codewars?user=croissant93&name=true&top_languages=true&stroke=%23b362ff&theme=solarized_light
+
+
