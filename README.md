@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=300&section=header&text=Welcome&desc=Daeung's%20Github&descAlign=63&descAlignY=64&fontSize=90)
 
-
+<!-- 
 ### 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </p>
-
+-->
 ***
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=croissant93&name=true&top_languages=true&stroke=%23b362ff&theme=solarized_light) -->
 
